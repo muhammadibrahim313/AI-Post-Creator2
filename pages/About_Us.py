@@ -33,10 +33,10 @@ with team_col2:
         """<div class='card'>
             <img src='https://media.licdn.com/dms/image/v2/D4D35AQEnkHTdeZRKyA/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1733436747657?e=1734382800&v=beta&t=FvaCcl1ygY0coLzHpdO6mKGZ48AvOcVW0qF3r9d__4I' alt='TIJANI .S. OLALEKAN' style='width:100px;height:100px;border-radius:50%;'>
             <h3>Musawenkosi Sibeko</h3>
-            <p>Software Engineer</p>
-            <p class='info-text'>Specialized in Development</p>
-            <a href='https://www.linkedin.com/in/sotijani/' target='_blank'>LinkedIn</a> | 
-            <a href='https://github.com/TSOlami' target='_blank'>GitHub</a>
+            <p>CyberSecurity Analyst</p>
+            <p class='info-text'>Specialized in Analysis </p>
+            <a href='linkedin.com/in/musasibeko61' target='_blank'>LinkedIn</a> | 
+            <a href='' target='_blank'>GitHub</a>
         </div>""",
         unsafe_allow_html=True
     )
@@ -46,10 +46,10 @@ with team_col3:
         """<div class='card'>
             <img src='https://media.licdn.com/dms/image/v2/D5603AQHD0EFsdU_gYw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1708725952719?e=1739404800&v=beta&t=EKCtvsSrodaJDzOLg5UaBA9vhzPYnZ4yES_mBov2slE' alt='Maryam Sikander' style='width:100px;height:100px;border-radius:50%;'>
             <h3>Yashwanth Doraswamy</h3>
-            <p>ML Engineer</p>
+            <p>AI Engineer</p>
             <p class='info-text'>Specialist in Machine Learning</p>
-            <a href='https://www.linkedin.com/in/maryamsikander/' target='_blank'>LinkedIn</a> | 
-            <a href='https://github.com/Maryam-Sikander' target='_blank'>GitHub</a>
+            <a href=' https://www.linkedin.com/in/yashwanthdoraswamy/' target='_blank'>LinkedIn</a> | 
+            <a href='https://github.com/yashvicky' target='_blank'>GitHub</a>
         </div>""",
         unsafe_allow_html=True
     )
@@ -64,8 +64,8 @@ with team_col4:
             <h3>Hassan Mehmood</h3>
             <p>Data Analyst</p>
             <p class='info-text'>Specialist in Data Analysis</p>
-            <a href='https://www.linkedin.com/in/ahmad-fakhar77797' target='_blank'>LinkedIn</a> | 
-            <a href='https://github.com/Ahmad-Fakhar' target='_blank'>GitHub</a>
+            <a href=' https://www.linkedin.com/in/hassan-mehmood-01a3a9247/' target='_blank'>LinkedIn</a> | 
+            <a href='https://github.com/HassanMehmood413' target='_blank'>GitHub</a>
         </div>""",
         unsafe_allow_html=True
     )
@@ -77,8 +77,8 @@ with team_col5:
             <h3>Manjunatha Rathod</h3>
             <p>Data Analyst</p>
             <p class='info-text'>Specialist in Data Analysis</p>
-            <a href='https://www.linkedin.com/in/muhammad-jawad-86507b201/' target='_blank'>LinkedIn</a> | 
-            <a href='https://github.com/mj-awad17/' target='_blank'>GitHub</a>
+            <a href='https://www.linkedin.com/in/manjunath-rathod-7307b6203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' target='_blank'>LinkedIn</a> | 
+            <a href='https://github.com/Vikram299' target='_blank'>GitHub</a>
         </div>""",
         unsafe_allow_html=True
     )
@@ -88,10 +88,10 @@ with team_col6:
         """<div class='card'>
             <img src='https://avatars.githubusercontent.com/u/149602572?v=4' alt='TAYYAB SAJJAD' style='width:100px;height:100px;border-radius:50%;'>
             <h3>Muhammad Bilal</h3>
-            <p>AI Engineer</p>
-            <p class='info-text'>Specialist in Web Development</p>
-            <a href='https://www.linkedin.com/in/devtayyabsajjad' target='_blank'>LinkedIn</a> | 
-            <a href='https://github.com/devtayyabsajjad' target='_blank'>GitHub</a>
+            <p>AI Researcher</p>
+            <p class='info-text'>Specialist in AI </p>
+            <a href='https://www.linkedin.com/in/muhammad-bilal-a75782280/' target='_blank'>LinkedIn</a> | 
+            <a href='https://github.com/bilal77511' target='_blank'>GitHub</a>
         </div>""",
         unsafe_allow_html=True
     )
@@ -101,7 +101,7 @@ st.markdown("<h2 class='sub-title'>Get in Touch</h2>", unsafe_allow_html=True)
 st.markdown(
     """<div class='card'>
         <h3>Contact Information</h3>
-        <p><strong>Email:</strong> team@aipostcreator.com</p>
+        <p><strong>Email:</strong> oppoibrahim23@gmail.com</p>
         <p><strong>GitHub Repository:</strong> <a href='https://github.com/bilal77511/genai_hack' target='_blank'>genai_hack</a></p>
         <p class='info-text'>We're always happy to hear from you! Feel free to reach out with questions, suggestions, or collaboration opportunities.</p>
     </div>""",
