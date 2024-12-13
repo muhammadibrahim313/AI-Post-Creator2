@@ -97,7 +97,8 @@ with team_col6:
     )
 
 # Third Row (New Members)
-team_col7, team_col8 = st.columns(3)
+# Third Row (New Members)
+team_col7, team_col8 = st.columns(2)  # Changed from columns(3) to columns(2)
 
 with team_col7:
     st.markdown(
