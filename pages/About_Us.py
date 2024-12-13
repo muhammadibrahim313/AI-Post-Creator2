@@ -116,7 +116,7 @@ with team_col7:
 with team_col8:
     st.markdown(
         """<div class='card'>
-            <img src='https://via.placeholder.com/100' alt='Mentor' style='width:100px;height:100px;border-radius:50%;'>
+            <img src='https://media.licdn.com/dms/image/v2/D4D03AQH48RESdcgtaA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1694808605243?e=1739404800&v=beta&t=KV-CoDAkrjwz5BXbgEQOMQ_yXBeFa2OndjoZs7goc2U' alt='Mentor' style='width:100px;height:100px;border-radius:50%;'>
             <h3>Koyelia Ghosh Roy</h3>
             <p>Project Mentor</p>
             <p class='info-text'>Generative AI Leader @ EXL </p>
