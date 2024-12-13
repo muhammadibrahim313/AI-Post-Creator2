@@ -8,6 +8,7 @@ st.markdown(load_css(), unsafe_allow_html=True)
 # Title
 st.markdown("<h1 class='main-title'>About Us</h1>", unsafe_allow_html=True)
 st.markdown("<p class='sub-title'>Meet the Team Behind AI Post Creator</p>", unsafe_allow_html=True)
+
 # Team Section
 st.markdown("<h2 class='sub-title'>Meet Our Team</h2>", unsafe_allow_html=True)
 
@@ -34,8 +35,8 @@ with team_col2:
             <h3>Musawenkosi Sibeko</h3>
             <p>CyberSecurity Analyst</p>
             <p class='info-text'>Specialized in Analysis </p>
-            <a href='linkedin.com/in/musasibeko61' target='_blank'>LinkedIn</a> | 
-            <a href='' target='_blank'>GitHub</a>
+            <a href='https://www.linkedin.com/in/musasibeko61' target='_blank'>LinkedIn</a> | 
+            <a href='#' target='_blank'>GitHub</a>
         </div>""",
         unsafe_allow_html=True
     )
@@ -47,7 +48,7 @@ with team_col3:
             <h3>Yashwanth Doraswamy</h3>
             <p>AI Engineer</p>
             <p class='info-text'>Specialist in Machine Learning</p>
-            <a href=' https://www.linkedin.com/in/yashwanthdoraswamy/' target='_blank'>LinkedIn</a> | 
+            <a href='https://www.linkedin.com/in/yashwanthdoraswamy/' target='_blank'>LinkedIn</a> | 
             <a href='https://github.com/yashvicky' target='_blank'>GitHub</a>
         </div>""",
         unsafe_allow_html=True
@@ -63,7 +64,7 @@ with team_col4:
             <h3>Hassan Mehmood</h3>
             <p>Data Analyst</p>
             <p class='info-text'>Specialist in Data Analysis</p>
-            <a href=' https://www.linkedin.com/in/hassan-mehmood-01a3a9247/' target='_blank'>LinkedIn</a> | 
+            <a href='https://www.linkedin.com/in/hassan-mehmood-01a3a9247/' target='_blank'>LinkedIn</a> | 
             <a href='https://github.com/HassanMehmood413' target='_blank'>GitHub</a>
         </div>""",
         unsafe_allow_html=True
@@ -102,9 +103,9 @@ with team_col7:
     st.markdown(
         """<div class='card'>
             <img src='https://via.placeholder.com/100' alt='Teammate' style='width:100px;height:100px;border-radius:50%;'>
-            <h3>Your Teammate Name</h3>
+            <h3>Your Teammate</h3>
             <p>Team Member</p>
-            <p class='info-text'>Your Teammate's Specialty</p>
+            <p class='info-text'>Data Science Enthusiast</p>
             <a href='#' target='_blank'>LinkedIn</a> | 
             <a href='#' target='_blank'>GitHub</a>
         </div>""",
@@ -115,15 +116,14 @@ with team_col8:
     st.markdown(
         """<div class='card'>
             <img src='https://via.placeholder.com/100' alt='Mentor' style='width:100px;height:100px;border-radius:50%;'>
-            <h3>Dr. Mentor Name</h3>
+            <h3>Dr. Project Mentor</h3>
             <p>Project Mentor</p>
-            <p class='info-text'>Expert in Domain</p>
+            <p class='info-text'>Expert in AI and Machine Learning</p>
             <a href='#' target='_blank'>LinkedIn</a> | 
             <a href='#' target='_blank'>GitHub</a>
         </div>""",
         unsafe_allow_html=True
     )
-    
 
 # Contact Section
 st.markdown("<h2 class='sub-title'>Get in Touch</h2>", unsafe_allow_html=True)
@@ -135,4 +135,4 @@ st.markdown(
         <p class='info-text'>We're always happy to hear from you! Feel free to reach out with questions, suggestions, or collaboration opportunities.</p>
     </div>""",
     unsafe_allow_html=True
-) 
+)
