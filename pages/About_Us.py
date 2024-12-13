@@ -96,19 +96,19 @@ with team_col6:
         unsafe_allow_html=True
     )
 
+
 # Third Row (New Members)
-# Third Row (New Members)
-team_col7, team_col8 = st.columns(2)  # Changed from columns(3) to columns(2)
+team_col7, team_col8 = st.columns(2)  
 
 with team_col7:
     st.markdown(
         """<div class='card'>
-            <img src='https://via.placeholder.com/100' alt='Teammate' style='width:100px;height:100px;border-radius:50%;'>
-            <h3>Your Teammate</h3>
-            <p>Team Member</p>
-            <p class='info-text'>Data Science Enthusiast</p>
-            <a href='#' target='_blank'>LinkedIn</a> | 
-            <a href='#' target='_blank'>GitHub</a>
+            <img src='https://media.licdn.com/dms/image/v2/D4D03AQHyH8IOKkxo7A/profile-displayphoto-shrink_400_400/B4DZN23fbWHMAg-/0/1732866084253?e=1739404800&v=beta&t=6OCixH9nxtvKgJvSHjeMG04EPilSrO0lnIotdCF1NWM' alt='Teammate' style='width:100px;height:100px;border-radius:50%;'>
+            <h3>Ali Usama</h3>
+            <p>Flutter Developer @</p>
+            <p class='info-text'>Expert in Andriod</p>
+            <a href='https://www.linkedin.com/in/ali-usam4/' target='_blank'>LinkedIn</a> | 
+            <a href='https://github.com/Ali-Usam4' target='_blank'>GitHub</a>
         </div>""",
         unsafe_allow_html=True
     )
@@ -117,10 +117,10 @@ with team_col8:
     st.markdown(
         """<div class='card'>
             <img src='https://via.placeholder.com/100' alt='Mentor' style='width:100px;height:100px;border-radius:50%;'>
-            <h3>Dr. Project Mentor</h3>
+            <h3>Koyelia Ghosh Roy</h3>
             <p>Project Mentor</p>
-            <p class='info-text'>Expert in AI and Machine Learning</p>
-            <a href='#' target='_blank'>LinkedIn</a> | 
+            <p class='info-text'>Generative AI Leader @ EXL </p>
+            <a href='https://www.linkedin.com/in/koyeliacsmcbap/' target='_blank'>LinkedIn</a> | 
             <a href='#' target='_blank'>GitHub</a>
         </div>""",
         unsafe_allow_html=True
